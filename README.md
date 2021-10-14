@@ -8,3 +8,9 @@ another try to sync up to GitHub.
 20211014 12:13pm
 
 changed on remote repo 1:49pm
+
+changed when pull origin main
+
+update again after checkout and push to remote
+
+another update locall on branch
